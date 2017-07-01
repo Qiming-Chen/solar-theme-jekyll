@@ -1,1 +1,8 @@
+---
+layout: post
+title:  "test"
+date:   2013-06-05 20:03:11
+external-url: http://jekyllrb.com/docs/home/
+---
+
 ###this is a test
