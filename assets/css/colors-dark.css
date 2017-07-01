@@ -29,11 +29,9 @@ h1 a:hover {
 }
 
 article h1 a.anchor {
-	color: #2aa198;
-}
-article h1 a{
 	color: #999966;
 }
+
 blockquote {
 	border-color: #cb4b16;
 }
