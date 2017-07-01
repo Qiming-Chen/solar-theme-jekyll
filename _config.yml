@@ -6,4 +6,4 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 
 gems: [jekyll-paginate]
-exclude: ['Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: ['Gemfile','Gemfile.lock', 'Gemfile', 'Rakefile']
