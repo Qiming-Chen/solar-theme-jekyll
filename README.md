@@ -29,8 +29,9 @@ If you're wanting to replace the theme of an existing Jekyll blog, either option
 4. `feed.xml`
 5. `index.xml`
 
+<<<<<<< 84440651ae820230ccf3e950a8f53c2351139544
 
-You'll also want to compare Solar's `_config.yml` with your own, making any appropriate chang
+You'll also want to compare Solar's `_config.yml` with your own, making any appropriate chan
 
 
 Demo
